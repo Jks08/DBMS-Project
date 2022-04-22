@@ -1,0 +1,155 @@
+#avseat {
+    margin-left: 25rem !important;
+}
+
+.flight-card {
+    border-radius: 1rem !important;
+    margin-left: 11rem !important;
+    box-shadow: 15px 15px 15px rgb(3, 62, 80);
+}
+
+#passhead {
+    margin-top: 10px;
+    margin-left: 20rem;
+}
+
+
+#seatlab {
+    margin-top: 2px;
+    margin-left: 8rem;
+}
+
+#seatno {
+    margin-left: 7rem;
+}
+
+#namelab {
+    margin-top: 2px;
+    margin-left: 12rem;
+}
+
+#name {
+    margin-left: 7rem;
+}
+
+#agelab {
+    margin-top: 2px;
+    margin-left: 12rem;
+}
+
+#age {
+    margin-left: 7rem;
+}
+
+#emaillab {
+    margin-top: 1rem;
+    margin-left: 12.5rem;
+}
+
+#email {
+    margin-left: 5rem;
+}
+
+#phonelab {
+    margin-top: 1rem;
+    margin-left: 12.5rem;
+}
+
+#phone {
+    margin-left: 5rem;
+}
+
+#farelab {
+    margin-top: 1.5rem;
+    margin-left: 12.5rem;
+}
+
+#faretext {
+    margin-left: 12rem;
+}
+
+#paymentlab {
+    margin-top: 1rem;
+    margin-left: 9.5rem;
+}
+
+#payment {
+    margin-left: 5rem;
+}
+
+#bookings {
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    margin-left: 40px;
+    margin-top: 1px;
+}
+
+
+.pay_row {
+    padding-right: 5rem;
+}
+
+#paymentlab2 {
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 4rem;
+    margin-left: 5.2rem;
+    color: white;
+}
+
+#farelab2 {
+    margin-top: 1.5rem;
+    margin-left: 22rem;
+}
+
+#faretext2 {
+    margin-left: 21.5rem;
+}
+
+.pay-card {
+    width: 60rem;
+    margin-top: 5rem;
+    margin-left: 11rem;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 15px 15px 15px rgb(3, 62, 80);
+}
+
+.month-credit {
+    margin-top: 1rem;
+}
+
+.exp-label {
+    margin-left: 12rem;
+}
+
+.cvv-label {
+    margin-left: 10rem;
+}
+
+.month-select {
+    margin-top: 10px;
+    margin-left: 7rem;
+}
+
+.year-select {
+    margin-top: 10px;
+    margin-left: 6rem;
+}
+
+.cvv-inp {
+    margin-top: 10px;
+    margin-left: 15rem !important;
+}
+
+.upi-form {
+    margin-top: 30px;
+}
+
+.input-group-text {
+    margin-left:2rem;
+}
+
+.form-check {
+    margin-left: 1rem;
+}
